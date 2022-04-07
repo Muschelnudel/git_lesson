@@ -1,3 +1,3 @@
-# My first Git Repo
-Muschelnudel
+# My very first Git Repo
+Margarethe Hauck
 
